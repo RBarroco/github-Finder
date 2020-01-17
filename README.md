@@ -1,3 +1,14 @@
+# github Finder
+A website developed with gitHub API resquest, React.js => React Hooks
+
+<p>
+"Check out a 
+<a href="https://lucid-almeida-53d28d.netlify.com/" >live demo</a>
+."
+</p>
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
